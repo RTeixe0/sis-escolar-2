@@ -1,0 +1,96 @@
+[
+    {
+        "nome": "João",
+        "turma": "1º DSM",
+        "disciplinas": [
+            {
+                "nome": "Lógica de Programação",
+                "professor": "Júnior"
+            },
+            {
+                "nome": "Desenvolvimento Web I",
+                "professor": "Tiago"
+            }
+        ]
+    },
+    {
+        "nome": "Maria",
+        "turma": "2º DSM",
+        "disciplinas": [
+            {
+                "nome": "Banco de Dados",
+                "professor": "Júnior"
+            },
+            {
+                "nome": "Desenvolvimento Web II",
+                "professor": "Reginaldo"
+            },
+            {
+                "nome": "Engenharia de Software II",
+                "professor": "Ana Célia"
+            }
+        ]
+    },
+    {
+        "nome": "Pedro",
+        "turma": "3º DSM",
+        "disciplinas": [
+            {
+                "nome": "Técnicas de Programação II",
+                "professor": "Júnior"
+            },
+            {
+                "nome": "Banco de Dados ",
+                "professor": "Tiago"
+            }
+        ]
+    },
+    {
+        "nome": "Renan",
+        "turma": "3º DSM",
+        "disciplinas": [
+            {
+                "nome": "Banco de Dados nao Relacional",
+                "professor": "Matheus"
+            },
+            {
+                "nome": "Desenvolvimento Web III",
+                "professor": "Junior"
+            },
+            {
+                "nome": "Sistemas Operacionais e Redes de Computadores",
+                "professor": "Edison"
+            },
+            {
+                "nome": "Engenharia de Software II",
+                "professor": "Ana Célia"
+            }
+        ]
+    },
+    {
+        "nome": "Reginaldo",
+        "turma": "4º DSM",
+        "disciplinas": [
+            {
+                "nome": "Banco de Dados",
+                "professor": "Júnior"
+            },
+            {
+                "nome": "Desenvolvimento Web II",
+                "professor": "Reginaldo"
+            },
+            {
+                "nome": "Engenharia de Software II",
+                "professor": "Ana Célia"
+            },
+            {
+                "nome": "Matemática para Computação",
+                "professor": "Professor Rafael",
+                "carga": 60
+              }
+            
+        ]
+    }
+
+    
+]

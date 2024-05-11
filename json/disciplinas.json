@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Sistemas Operacionais e Redes de Computadores",
+    "professor": "Professor Edison",
+    "carga": 80
+  },
+  {
+    "nome": "Design Digital",
+    "professor": "Professor Thiago",
+    "carga": 60
+  },
+  {
+    "nome": "Modelagem de Banco de Dados",
+    "professor": "Professor Wladimir",
+    "carga": 80
+  },
+  {
+    "nome": "Algoritmo e Lógica de Programação",
+    "professor": "Professor Júnior",
+    "carga": 80
+  },
+  {
+    "nome": "Desenvolvimento Web I",
+    "professor": "Professor Thiago",
+    "carga": 80
+  },
+  {
+    "nome": "Engenharia de Software II",
+    "professor": "Professora Ana Célia",
+    "carga": 60
+  },  
+  {
+    "nome": "Estrutura de Dados",
+    "professor": "Professor Thiago",
+    "carga": 80
+  },
+  {
+    "nome": "Banco de Dados Relacional",
+    "professor": "Professor Júnior",
+    "carga": 60
+  },
+  {
+    "nome": "Técnicas de Programação I",
+    "professor": "Professora Maromo",
+    "carga": 60
+  },
+  {
+    "nome": "Matemática para Computação",
+    "professor": "Professor Rafael",
+    "carga": 60
+  }
+]
